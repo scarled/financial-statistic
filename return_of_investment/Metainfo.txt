@@ -1,0 +1,12 @@
+Name of QuantLet : return_of_investment
+
+Published in : financial-statistic
+
+Description : 'This script calculate the normal and logaritmic returns for a stock.'
+
+Keywords : 
+- return of investment
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sun, 10 May 2020
