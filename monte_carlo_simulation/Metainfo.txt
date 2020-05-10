@@ -3,7 +3,7 @@ Name of QuantLet : monte_carlo_simulation
 
 Published in : financial-statistic
 
-Description : 'This script generate a monte carlo simulation for an asset'
+Description : 'This script generate a monte carlo simulation for a stock'
 
 Keywords : 
 - portofolio
