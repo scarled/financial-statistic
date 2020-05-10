@@ -2,7 +2,7 @@ Name of QuantLet : return_of_investment
 
 Published in : financial-statistic
 
-Description : 'This script calculate the normal and logaritmic returns for a stock.'
+Description : 'This script calculate the normal and logaritmic returns (daily and annual) for a stock.'
 
 Keywords : 
 - return of investment
