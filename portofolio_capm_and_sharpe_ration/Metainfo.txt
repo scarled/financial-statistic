@@ -1,0 +1,16 @@
+Name of QuantLet : portofolio_capm_and_sharpe_ration
+
+
+Published in : financial-statistic
+
+Description : 'This script calculated the risk of an investment (daily and annualy).'
+
+Keywords : 
+- portofolio
+- CAMP
+- sharpe ration
+- Beta
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sun, 10 May 2020
