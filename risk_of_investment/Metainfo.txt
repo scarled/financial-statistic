@@ -2,7 +2,7 @@ Name of QuantLet : risk_of_investment
 
 Published in : financial-statistic
 
-Description : 'This script calculated the risk of an investment (daily and annualy).'
+Description : 'This script calculated the risk of an investment (daily and annualy) for a stock.'
 
 Keywords : 
 - risk of investment
