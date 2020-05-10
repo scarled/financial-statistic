@@ -1,0 +1,14 @@
+Name of QuantLet : euler_discretization
+
+Published in : financial-statistic
+
+Description : 'This script simulate euler discretization metod  for a stock'
+
+Keywords : 
+- simulation
+- euler discretization
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sun, 10 May 2020
