@@ -3,7 +3,7 @@ Name of QuantLet : portofolio_capm_and_sharpe_ration
 
 Published in : financial-statistic
 
-Description : 'This script calculated the risk of an investment (daily and annualy).'
+Description : 'This script calculated the beta coefficient, Capital Assets Price Model (CAPM) and Sharpe Ration for an assets'
 
 Keywords : 
 - portofolio
