@@ -1,0 +1,15 @@
+ Name of QuantLet : markowitz_frontier
+
+Published in : financial-statistic
+
+Description : 'This script generate the markowitz frontier for a portofolio'
+
+Keywords : 
+- portofolio
+- markowitz frontier
+- optimization
+- simulation 
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sun, 10 May 2020
