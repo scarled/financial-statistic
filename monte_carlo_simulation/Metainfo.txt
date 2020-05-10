@@ -1,0 +1,15 @@
+Name of QuantLet : monte_carlo_simulation
+
+
+Published in : financial-statistic
+
+Description : 'This script generate a monte carlo simulation for an assets'
+
+Keywords : 
+- portofolio
+- monte carlo
+- simulation 
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sun, 10 May 2020
