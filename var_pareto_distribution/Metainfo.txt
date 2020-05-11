@@ -1,0 +1,14 @@
+Name of QuantLet : var_pareto_distribution
+
+Published in : financial-statistic
+
+Description : 'This script will estimate the value at risk of a stock(base on pareto distribution probability function)'
+
+Keywords : 
+- VAR
+- pareto distribution
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Mon, 11 May 2020
