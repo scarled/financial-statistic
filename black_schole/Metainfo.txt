@@ -1,0 +1,15 @@
+Name of QuantLet : black_schole
+
+
+Published in : financial-statistic
+
+Description : 'This script calculate the price of an option use black schole formula;
+
+Keywords : 
+- option
+- black_schole
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Thu, 19 May 2020
