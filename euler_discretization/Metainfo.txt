@@ -2,7 +2,7 @@ Name of QuantLet : euler_discretization
 
 Published in : financial-statistic
 
-Description : 'This script simulate euler discretization metod  for a stock'
+Description : 'This script simulate euler discretization method  for a stock'
 
 Keywords : 
 - simulation
