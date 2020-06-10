@@ -1,0 +1,12 @@
+Name of QuantLet : trinomial_model_amarican_price_option
+
+
+
+Published in : financial-statistic
+
+Description : 'This script estimate the price of an American option trinomial model;
+
+Keywords : 
+- option
+- triomial model
+- American option
