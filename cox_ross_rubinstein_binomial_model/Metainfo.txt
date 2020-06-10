@@ -3,7 +3,7 @@ Name of QuantLet : cox_ross_rubinstein_binomial_model
 
 Published in : financial-statistic
 
-Description : 'This script calculate the price of an option use black schole formula;
+Description : 'This script estimate the price of an option use cox ross rubintein binomial modelformula';
 
 Keywords : 
 - option
