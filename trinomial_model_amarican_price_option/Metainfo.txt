@@ -10,3 +10,7 @@ Keywords :
 - option
 - triomial model
 - American option
+
+Author: Dragos Nicu Cioata
+
+Submitted : Wen, 10 Jun 2020
