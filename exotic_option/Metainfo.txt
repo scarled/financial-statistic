@@ -1,0 +1,18 @@
+Name of QuantLet : exotic_option
+
+
+Published in : financial-statistic
+
+Description : 'This script estimate the price of an exotic option';
+
+Keywords : 
+- option
+- exotic
+- compounnd
+- chooser
+- barrier
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sut, 13 Jun 2020
