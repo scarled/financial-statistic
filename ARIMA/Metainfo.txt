@@ -1,0 +1,18 @@
+Name of QuantLet : ARIMA
+
+
+Published in : financial-statistic
+
+Description : 'This script estimate ARIMA model';
+
+Keywords : 
+- time series
+- AR
+- MA
+- ARMA
+- ARIMA
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Sun, 14 Jun 2020
