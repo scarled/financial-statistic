@@ -1,0 +1,16 @@
+Name of QuantLet : estimated_var_with_garch
+
+Published in : financial-statistic
+
+Description : 'Estimate the VAR using garch model';
+
+Keywords : 
+- AR
+- ARCH
+- GARCH
+- VAR
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Mon, 15 Jun 2020
