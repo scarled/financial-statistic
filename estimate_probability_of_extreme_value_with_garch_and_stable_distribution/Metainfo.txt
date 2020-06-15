@@ -1,0 +1,18 @@
+Name of QuantLet : estimate_probability_of_extreme_value_with_garch_and_stable_distribution
+
+
+Published in : financial-statistic
+
+Description : 'Estimate the probability of extreme value using garch model and stable distribution';
+
+Keywords : 
+- AR
+- ARCH
+- GARCH
+- stable distribution
+- extreme value probability
+
+
+Author: Dragos Nicu Cioata
+
+Submitted : Mon, 15 Jun 2020
